@@ -1,0 +1,10 @@
+#|
+
+(FRED AND WILMA)
+(FRED (AND WILMA))
+(FRED AND WILMA)
+(NIL)
+(NIL NIL)
+
+
+|#
