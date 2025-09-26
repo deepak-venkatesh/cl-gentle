@@ -1,0 +1,11 @@
+#|
+
+(((FUN)) (IN THE) (SUN))
+
+FUN: CAAAR
+IN: CAADR
+THE: CADADR
+SUN: CAADDR
+
+|#
+
