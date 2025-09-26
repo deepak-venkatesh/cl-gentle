@@ -1,0 +1,11 @@
+#|
+
+T
+NIL
+NIL
+NIL
+T
+T
+NIL
+
+|#

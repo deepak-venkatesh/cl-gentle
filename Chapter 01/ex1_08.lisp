@@ -1,0 +1,1 @@
+; It inverts the sign of the input number
